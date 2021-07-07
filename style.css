@@ -30,6 +30,7 @@ a:hover {
 .pdg{
     font-size: smaller;
     color: #818181;
+    display: inherit;
 }
 
 .bloc {
